@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rahul Majumder
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and data analytics
 - 💞️ I’m looking to collaborate on nothing as of now. Just started learning
 - 📫 To contact me please write to majumderrahul24@gmail.com
 
